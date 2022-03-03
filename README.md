@@ -6,7 +6,7 @@
 
 
 <div>
-<img src=https://cdnb.artstation.com/p/assets/images/images/024/538/827/original/pixel-jeff-clipa-s.gif?1582740711 width="1480" height="500"/>
+<img src=https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9bc27292880429.5e569ff84e4d0.gif width="1480" height="500"/>
 </div>
 
 <hr>
@@ -52,6 +52,6 @@
 ### Contatos:
 
 <a href = "mailto:adelmo.junior0068@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
 
 ![Snake animation](https://github.com/Adelmo-Jr/Adelmo-Jr/blob/output/github-contribution-grid-snake.svg)
+</div>
