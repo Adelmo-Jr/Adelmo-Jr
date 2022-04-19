@@ -13,7 +13,7 @@
 <!--📼
 **Adelmo-Jr/Adelmo-Jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 💻 Atualmente cursando 3° período do Curso Técnico em Informática no Instituto Federal de Sergipe (IFS).
+- 💻 Atualmente cursando 4° período do Curso Técnico em Informática no Instituto Federal de Sergipe (IFS).
 - ⚡ Curiosidade: Apesar de estar envolvido nos estudos sobre Software, tenho um grande interesse ligado ao mundo do Hardware. (<a href="https://youtu.be/QBLMo3F3qv0"> Video</a> que prova isso )
 - ❤️🔊 SynthWave, RetroWave e EDM.
 
